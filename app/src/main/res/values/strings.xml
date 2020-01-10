@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ViewPager Transformation</string>
+    <string name="select_viewpager2_pagetransformer">Select ViewPager2 PageTransformer</string>
+
+
+    <string-array name="selectPageTransformer">
+        <item>Anti Clock Spin Transformation</item>
+        <item>CubeIn Scaling Transformation</item>
+        <item>CubeOut Rotation Transformation</item>
+        <item>Depth Transformation</item>
+        <item>FadeOut Transformation</item>
+        <item>Fan Transformation</item>
+        <item>FidgetSpin Transformation</item>
+        <item>Header FloatTransformer</item>
+        <item>Hinge Transformation</item>
+        <item>Overlap SliderTransformer</item>
+        <item>Pop Transformation</item>
+        <item>Simple Slider Transformer</item>
+        <item>Spin Transformation</item>
+        <item>Stack Slider Transformer</item>
+        <item>Vertical Flip Transformation</item>
+        <item>Vertical Shut Transformation</item>
+        <item>ZoomOut Transformation</item>
+    </string-array>
+</resources>
